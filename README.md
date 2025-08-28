@@ -1,4 +1,4 @@
-## Hi👋
+
 
 <!--
 **Shreyaa712/Shreyaa712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +40,4 @@ Here are some ideas to get you started:
 - Internships & collaborations in **CS / AI / ML** fields  
 - Learning opportunities that challenge me to grow  
 
----
-
-✨ I’m building consistency.
 ---
