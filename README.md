@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👩‍💻 Shreya Dinesh Salunkhe  
 
-🎓 **B.Tech IT | 2nd Year Student**  
+🎓 **B.Tech IT | 3rd Year Student**  
 💻 Passionate about building a strong foundation in **Data Structures & Algorithms**  
 🤖 Exploring **Artificial Intelligence & Machine Learning** step by step  
 
