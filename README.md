@@ -55,19 +55,8 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shreyaa712&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaa712&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Shreyaa712&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyaa712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaa712&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/> <img src="https://streak-stats.demolab.com?user=Shreyaa712&theme=tokyonight&hide_border=true" alt="GitHub streak"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyaa712&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/> </div>
 
 ## 📈 Contribution Activity
 
