@@ -1,43 +1,102 @@
 
+<div align="center">
 
-<!--
-**Shreyaa712/Shreyaa712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shreya Salunkhe 👋
 
-Here are some ideas to get you started:
+### Python Developer | AI/ML Enthusiast | IT Undergraduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👩‍💻 Shreya Dinesh Salunkhe  
+*Building, learning, and exploring the world of technology.*
 
-🎓 **B.Tech IT | 3rd Year Student**  
-💻 Passionate about building a strong foundation in **Data Structures & Algorithms**  
-🤖 Exploring **Artificial Intelligence & Machine Learning** step by step  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shreya-salunkhe-373803357)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shreyaa712)
+
+</div>
 
 ---
 
-## 🚀 Current Focus
-- Learning **AI/ML fundamentals**  
-- Mastering **DSA**  
-- Sharing my learning journey through projects & notes here on GitHub  
+## 👩‍💻 About Me
+
+- 🎓 Third-year Information Technology undergraduate.
+- 🐍 Interested in Python and Backend Development.
+- 🤖 Exploring Machine Learning and Generative AI.
+- 🔧 Building practical projects and learning through implementation.
+- 📚 Currently exploring LLMs, RAG, and AI-powered applications.
 
 ---
 
-## 🛠️ Tech Stack (Growing)
-- **Languages:** C++,Python  
-- **Core Areas:** DSA, AI/ML Basics 
-- **Tools:** Git, GitHub ,VS code ,MySQL 
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI & Machine Learning**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
-## 📌 Open To
-- Internships & collaborations in **CS / AI / ML** fields  
-- Learning opportunities that challenge me to grow  
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shreyaa712&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaa712&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Shreyaa712&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Shreya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyaa712&theme=tokyo-night&hide_border=true)](https://github.com/Shreyaa712)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python
+- Machine Learning
+- Generative AI & LLMs
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Backend Systems
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect and Build Something!
+
+*Consistency over perfection. Learning by building.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shreyaa712&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
 
 ---
