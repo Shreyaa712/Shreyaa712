@@ -73,9 +73,10 @@
 
 <div align="center">
 
-[![Shreya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyaa712&theme=tokyo-night&hide_border=true)](https://github.com/Shreyaa712)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyaa712&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
 
 </div>
+
 
 ---
 
